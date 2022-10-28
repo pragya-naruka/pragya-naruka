@@ -17,6 +17,4 @@ I'm Pragya, a graduate student in Data Analytics Engineering at Northeastern Uni
 - Learning data cleaning and wrangling using Python.
 - Brushing up on SQL skills.
 
-🙌🏻 Connect with Me
-- LinkedIn
 

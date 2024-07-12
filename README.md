@@ -13,7 +13,7 @@ I'm Pragya, a graduate student in Data Analytics Engineering at Northeastern Uni
 - Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
 
 ⚡️ Currently ⚡️
-- Looking for summer 2023 internships in Data Analyst/ Business Analyst/Data Engineer.
+- Looking for full time role in Data Analyst/ Business Analyst/Data Engineer.
 - Learning data cleaning and wrangling using Python.
 - Brushing up on SQL skills.
 

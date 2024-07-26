@@ -1,12 +1,11 @@
 ### Hi there 🙋🏻‍♀️
 
-I'm Pragya, a graduate student in Data Analytics Engineering at Northeastern University, USA. 
-
+I'm Pragya, recently graduated with a Master's in Data Analytics Engineering from Northeastern University, Boston, in August 2024.
 ✨About me in 30 Secs✨
 
-- Pursuing a master's degree in Data Analytics.
-- Data Analyst with 2 years of professional experience.
-- Completed bachelor's in Information Technology
+- Master's degree in Data Analytics.
+- Data Analyst with 3+ years of professional experience.
+- Completed bachelor's in Computer Science
 
 💡 Core Competencies 💡
 - Tools: SQL, Python, Tableau,Power BI
@@ -14,7 +13,7 @@ I'm Pragya, a graduate student in Data Analytics Engineering at Northeastern Uni
 
 ⚡️ Currently ⚡️
 - Looking for full time role in Data Analyst/ Business Analyst/Data Engineer.
-- Learning data cleaning and wrangling using Python.
+- Learning different ETL Tools and Deep Learning
 - Brushing up on SQL skills.
 
 

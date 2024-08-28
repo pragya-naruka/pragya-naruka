@@ -8,7 +8,7 @@ I'm Pragya, recently graduated with a Master's in Data Analytics Engineering fro
 - Completed bachelor's in Computer Science
 
 💡 Core Competencies 💡
-- Tools: SQL, Python, Tableau,Power BI
+- Tools: SQL, Python, Tableau,Power BI, SSIS, Airflow, Alteryx
 - Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
 
 ⚡️ Currently ⚡️

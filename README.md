@@ -77,10 +77,6 @@ I'm Pragya, recently graduated with a Master's in Data Analytics Engineering fro
 
 
 
-#### Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryap175&layout=compact&theme=radical&langs_count=4)
-
 #### 👀 Visitor Count
 
 ![Visitor Count]

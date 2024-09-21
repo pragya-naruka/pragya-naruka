@@ -16,5 +16,4 @@ I'm Pragya, recently graduated with a Master's in Data Analytics Engineering fro
 - Learning different ETL Tools and Deep Learning
 - Brushing up on SQL skills.
 
-👀 Visitor Count
-Visitor Count
+

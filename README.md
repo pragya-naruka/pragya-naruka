@@ -83,7 +83,7 @@ I'm Pragya, recently graduated with a Master's in Data Analytics Engineering fro
 
 #### 👀 Visitor Count
 
-![Visitor Count](https://komarev.com/ghpvc/?username=suryap175&color=green&style=flat)
+![Visitor Count]
 
 
 

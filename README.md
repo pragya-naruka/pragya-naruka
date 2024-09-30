@@ -1,6 +1,6 @@
 ### Hi there 🙋🏻‍♀️
 
-I'm Pragya, recently graduated with a Master's in Data Analytics Engineering from Northeastern University, Boston, in August 2024.
+I'm Pragya, graduated with a Master's in Data Analytics Engineering from Northeastern University, Boston.
 ✨About me in 30 Secs✨
 
 - Master's degree in Data Analytics.
@@ -27,7 +27,6 @@ I'm Pragya, recently graduated with a Master's in Data Analytics Engineering fro
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 
 
@@ -36,11 +35,8 @@ I'm Pragya, recently graduated with a Master's in Data Analytics Engineering fro
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
-![C/C++](https://img.shields.io/badge/-C/C++-00599C?logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-4DB33D?logo=nosql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
 
 ## Data Engineering Tools
 
@@ -55,10 +51,6 @@ I'm Pragya, recently graduated with a Master's in Data Analytics Engineering fro
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
-![SPSS](https://img.shields.io/badge/-SPSS-0033A0?logo=spss&logoColor=white)
-![SAS](https://img.shields.io/badge/-SAS-1E2B7C?logo=sas&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
-![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/-Google_Analytics-E37400?logo=google-analytics&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/-Alteryx-0074BF?logo=alteryx&logoColor=white)
